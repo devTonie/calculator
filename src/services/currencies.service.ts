@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = "f110c2e151126d3e1263";
+const apiKey = "f110c2e151126d3e1263"; // your API key
 const baseUrl = "https://free.currconv.com/api/v7";
 
 export const getListOfCurrencies = async () => {
