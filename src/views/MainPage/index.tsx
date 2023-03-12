@@ -10,7 +10,7 @@ const MainPage: React.FC = () => {
             <div className='text-center items-center'>
                 <h1 className='text-[28px] font-semibold text-yellow-500 m-10 mt-22 font-Lobster'>Welcome to my project!</h1>
                 <p className='text-[20px] font-normal text-yellow-500 font-Lobster'>
-                    This is my first pet-project implemented using the React programming language.<br /><br />
+                    This is my pet-project implemented using the React programming language.<br /><br />
                     In this project, I applied the knowledge gained during the courses<br /> and self-study with the help of available resources.<br /><br />
                     The project applied the basic concepts of the React.js framework using libraries such as:
                 </p>
